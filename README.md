@@ -38,5 +38,12 @@ git clone https://github.com/userxray/SMS-Decrypt-and-Encryp-NEW
 python ######.py
 
 
+WINDOWS:
 
+you can use you'r cmd command line ;)
 
+python ######.py
+
+OR
+
+py ######.py
